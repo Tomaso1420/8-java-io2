@@ -8,7 +8,7 @@
 ```
 ffprobe -v error -of flat -show_format file.mp3
 ```
-
+cd
 Формат ответа на команду:
 ```
 ...
